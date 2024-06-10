@@ -1,4 +1,4 @@
-package StacksAndQueues;
+package DequesAndRandomizedQueues;
 
 public class StackImpl {
 
